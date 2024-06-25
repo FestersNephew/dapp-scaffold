@@ -15,7 +15,7 @@ export const Footer: FC = () => {
                                             src="/solanaLogo.png"
                                             alt="solana icon"
                                             width={156}
-                                            height={96}
+                                            height={156}
                                         />
                                     </div>
                                 </Link>

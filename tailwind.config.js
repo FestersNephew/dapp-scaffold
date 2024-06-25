@@ -16,12 +16,12 @@ module.exports = {
       {
         'solana': { 
           fontFamily: {
-            display: ['PT Mono, monospace'],
-            body: ['Inter, sans-serif'],
+            display: ['"Press Start 2P", cursive'],
+        body: ['"Press Start 2P", cursive'],
           },
-          'primary': '#000000',           /* Primary color */
-          'primary-focus': '#9945FF',     /* Primary color - focused */
-          'primary-content': '#ffffff',   /* Foreground content color to use on primary color */
+          'primary': '#ff007f', // Neon pink
+          'primary-focus': '#ff77aa',
+          'primary-content': '#ffffff',  
 
           'secondary': '#808080',         /* Secondary color */
           'secondary-focus': '#f3cc30',   /* Secondary color - focused */
